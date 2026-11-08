@@ -19,7 +19,7 @@ unique, accessible depuis Ubuntu WSL2.
 Ne pas installer de second Docker Engine
 directement dans Ubuntu.
 
-![Description de l'image](archi_platform.png)
+![Description de l'image](../images/ADR-0001-docker.png)
 
 ## Justification
 

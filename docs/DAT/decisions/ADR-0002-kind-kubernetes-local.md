@@ -31,7 +31,7 @@ Cet environnement doit permettre de tester les déploiements, les pipelines CI/C
 Adopter **Kind (Kubernetes IN Docker)** pour l'environnement Kubernetes local.
 
 Docker Desktop restera le moteur Docker unique, conformément à l'ADR-0001.
-![Description de l'image](images/ADR-0002-kind-kubernetes.png)
+![Description de l'image](../images/ADR-0002-kind-kubernetes.png)
 ## Justification
 
 - Compatibilité avec notre environnement WSL2 et Docker Desktop.
